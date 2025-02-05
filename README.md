@@ -3,10 +3,7 @@
 Welcome to my GitHub profile! Here's a bit about me:  
 
 - 🔧 **Currently working on**: Penetration testing and bug bounty hunting.  
-- 🌱 **Currently learning**: C programming languages.  
-- 👯‍♂️ **Open to collaborate on**: Bugcrowd. Feel free to reach me at **artuc@bugcrowdninja.com**  
-- 📧 **How to reach me**: [LinkedIn](https://linkedin.com/in/ahmet-artuc)  
-- 😄 **Pronouns**: He/Him.  
+- 📧 **How to reach me**: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmet-artuc)](https://www.linkedin.com/in/ahmet-artuc/)   [![Bugcrowd Badge](https://img.shields.io/badge/-Bugcrowd-F26822?style=flat&logo=bugcrowd&logoColor=white&link=https://bugcrowd.com/artuc)](https://bugcrowd.com/artuc)   
 - ⚡ **Fun fact**: Passionate about CrossFit but not EMOM workouts!  
 
 Here are my certifications:
