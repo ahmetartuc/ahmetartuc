@@ -11,5 +11,5 @@ Here are my certifications:
 - [OffSec Certified Professional (OSCP)](https://www.credential.net/648e2de7-553c-44e0-9660-3fd3d7b7b051)
 - [OffSec Wireless Professional (OSWP)](https://www.credential.net/60b784e9-2236-469f-ab3d-0c408a0a085d)
 
-
-Check out my repos or hit me up let's make some awesome stuff together!
+## Programming Languages
+<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&layout=compact&theme=tokyonight"/>
