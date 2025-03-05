@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi, I'm Ahmet</h1>
 <h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security | Learner | White Hat Hacker | CrossFit Athlete</h3>
 
@@ -22,16 +23,22 @@
 ## 🚀 Certifications
 <p align="left">
   <a href="https://www.credential.net/648e2de7-553c-44e0-9660-3fd3d7b7b051" target="_blank">
-    <img src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_ZruB4p.svg" alt="OSCP" width="150"/>
+    <img src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_ZruB4p.svg" alt="OSCP" width="95"/>
   </a>
   <a href="https://www.credential.net/60b784e9-2236-469f-ab3d-0c408a0a085d" target="_blank">
-    <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8_Z140i8n.svg" alt="OSWP" width="150"/>
+    <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8_Z140i8n.svg" alt="OSWP" width="95"/>
   </a>
 </p>
 
 ---
 
 ## 📖 Blog Posts
+<p align="left">
+  <a href="https://medium.com/@ahmetartuc" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/315301/medium.svg" alt="Medium" height="30" width="40" /> Medium Blog
+  </a>
+</p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -64,12 +71,6 @@
   <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://www.kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -86,3 +87,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetartuc&" alt="GitHub Streak" />
 </p>
+```
