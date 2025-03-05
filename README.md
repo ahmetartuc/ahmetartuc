@@ -1,19 +1,88 @@
-# Hi there 👋  
+<h1 align="center">Hi, I'm Ahmet</h1>
+<h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security | Learner | White Hat Hacker | CrossFit Athlete</h3>
 
-### I'm Ahmet Artuç
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmetartuc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-***Penetration Tester | Bug Bounty Hunter | Offensive Security | Learner | White Hat Hacker | CrossFit Athlete***
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmetartuc&theme=darkhub" alt="Trophies" />
+  </a>
+</p>
 
-[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetartuc&theme=dark)](https://github.com/ahmetartuc/github-readme-stats)
+<p align="center">
+  <a href="https://twitter.com/dephlow98" target="blank">
+    <img src="https://img.shields.io/twitter/follow/dephlow98?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
+---
 
-## Social Networks
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmet-artuc)](https://www.linkedin.com/in/ahmet-artuc/)   [![Bugcrowd Badge](https://img.shields.io/badge/-Bugcrowd-F26822?style=flat&logo=bugcrowd&logoColor=white&link=https://bugcrowd.com/artuc)](https://bugcrowd.com/artuc)   
+## 🚀 Certifications
+<p align="left">
+  <a href="https://www.credential.net/648e2de7-553c-44e0-9660-3fd3d7b7b051" target="_blank">
+    <img src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_ZruB4p.svg" alt="OSCP" width="150"/>
+  </a>
+  <a href="https://www.credential.net/60b784e9-2236-469f-ab3d-0c408a0a085d" target="_blank">
+    <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8_Z140i8n.svg" alt="OSWP" width="150"/>
+  </a>
+</p>
 
+---
 
-## Certifications
-- [OffSec Certified Professional (OSCP)](https://www.credential.net/648e2de7-553c-44e0-9660-3fd3d7b7b051)
-- [OffSec Wireless Professional (OSWP)](https://www.credential.net/60b784e9-2236-469f-ab3d-0c408a0a085d)
+## 📖 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## Programming Languages
-<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&layout=compact&theme=tokyonight"/>
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/dephlow98" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ahmet-artuc" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@ahmetartuc" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/@ahmetartucyoutube" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://bugcrowd.com/artuc" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Bugcrowd-F26822?style=flat&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
+  <a href="https://www.kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetartuc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetartuc&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetartuc&" alt="GitHub Streak" />
+</p>
