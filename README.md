@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Ahmet</h1>
 <h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security | Learner | White Hat Hacker | CrossFit Athlete</h3>
 
@@ -87,4 +86,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetartuc&" alt="GitHub Streak" />
 </p>
-```
