@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmet</h1>
-<h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security | Learner | White Hat Hacker | CrossFit Athlete</h3>
+<h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security | Learner | White Hat Hacker | Calisthenics Athlete</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmetartuc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
