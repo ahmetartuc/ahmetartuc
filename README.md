@@ -33,9 +33,6 @@
   <a href="https://medium.com/@ahmetartuc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/@ahmetartucyoutube" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
   <a href="https://bugcrowd.com/artuc" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Bugcrowd-F26822?style=flat&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
   </a>
