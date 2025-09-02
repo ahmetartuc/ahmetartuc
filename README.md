@@ -5,11 +5,14 @@
 
 ## Certifications
 <p align="center">
+  <!-- OSCP -->
   <a href="https://www.credential.net/648e2de7-553c-44e0-9660-3fd3d7b7b051" target="_blank">
-    <img src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_Ztlntl.svg" alt="OSCP" width="80" style="margin: 10px; padding:10px; border:1px solid #444; border-radius:8px;"/>
+    <img src="https://www.offsec.com/_astro/OSCP.D0Wrgjqy_Ztlntl.svg" alt="OSCP" width="80" style="margin: 0 40px; padding:10px; border:1px solid #444; border-radius:8px;"/>
   </a>
+
+  <!-- OSWP -->
   <a href="https://www.credential.net/60b784e9-2236-469f-ab3d-0c408a0a085d" target="_blank">
-    <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8.svg" alt="OSWP" width="80" style="margin: 10px; padding:10px; border:1px solid #444; border-radius:8px;"/>
+    <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8.svg" alt="OSWP" width="80" style="margin: 0 40px; padding:10px; border:1px solid #444; border-radius:8px;"/>
   </a>
 </p>
 
