@@ -20,13 +20,13 @@
 
 ## Connect with Me
 <p align="center">
-  <a href="https://x.com/artu403">
+  <a href="https://x.com/artuc05">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmetartuc">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bugcrowd.com/h/artuc">
+  <a href="https://bugcrowd.com/h/Ahmet-Artuc">
     <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   </a>
   <a href="https://app.hackthebox.com/profile/1700057">
