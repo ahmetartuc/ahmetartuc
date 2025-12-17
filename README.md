@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ahmet</h1>
-<h3 align="center">Offensive Security Professional | Penetration Tester | Bug Bounty Hunter</h3>
+<h3 align="center">Offensive Security Professional </h3>
 
 ---
 
@@ -20,20 +20,17 @@
 
 ## Connect with Me
 <p align="center">
-  <a href="https://x.com/artuc05">
+  <a href="https://x.com/1ahmetartuc">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmetartuc">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bugcrowd.com/h/Ahmet-Artuc">
+  <a href="https://bugcrowd.com/h/ahmetartuc">
     <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   </a>
   <a href="https://app.hackthebox.com/profile/1700057">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  </a>
-  <a href="https://portal.offsec.com/public-profile/058ad75d-2f37-11f0-9794-0ad45fbd5c7b">
-    <img src="https://img.shields.io/badge/OffSec-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   </a>
 </p>
 
